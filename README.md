@@ -8,4 +8,5 @@ Here we share the code for the course at CentraleSupélec, Case Study of Mobilit
 Then we make a histogram from this data. 
 
 Secondly we shall project the rail and road network with OSM basemap. 
-![map_attraction](https://github.com/liangkangenpc/cours_CSMM_23-24/assets/82210230/1eb55cbb-caa1-413a-8e08-ef93c7ad7283)
+![image](https://github.com/liangkangenpc/cours_CSMM_23-24/assets/82210230/61120051-f6b5-46bf-aff9-8053d54e5739)
+
